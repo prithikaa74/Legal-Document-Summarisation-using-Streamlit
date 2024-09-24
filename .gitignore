@@ -1,0 +1,14 @@
+# Ignore virtual environment
+env/
+.venv/
+
+# Ignore large files
+*.dll
+*.lib
+*.pyd
+
+# Ignore other unnecessary files
+__pycache__/
+*.log
+*.pyc
+*.pyo
